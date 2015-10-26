@@ -3,17 +3,14 @@
  */
 package tinkering;
 
-/**
- * @author Owner
- *
- */
+import java.util.HashMap;
+import java.util.Map;
+
 public class HashMapTinkering {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Map<Object, Object> someMap = new HashMap<Object, Object>();
+		
 
 	}
 
